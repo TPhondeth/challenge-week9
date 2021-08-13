@@ -1,0 +1,22 @@
+{
+  "name": "challenge-week9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TPhondeth/challenge-week9.git"
+  },
+  "author": "Tony Phondeth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TPhondeth/challenge-week9/issues"
+  },
+  "homepage": "https://github.com/TPhondeth/challenge-week9#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
