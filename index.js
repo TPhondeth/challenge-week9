@@ -28,7 +28,7 @@ const promptUser = () => {
         },
         {
             type: 'input',
-            name: 'contributors',
+            name: 'contributing',
             message: 'Who are the contributors to this project?'
         },
         {
@@ -55,14 +55,6 @@ const promptUser = () => {
     ]);
 };
 
-// // TODO: Create a function to write README file
-// function writeToFile('./README.md', data) {}
-
-// // TODO: Create a function to initialize app
-// function init() {}
-
-// // Function call to initialize app
-// init();
 promptUser()
     .then(answers => {
         const pageREADME = generateMarkdown(answers);
@@ -71,3 +63,11 @@ promptUser()
             console.log('Success! Checkout README.me to see output!');
         });
     });
+
+// TODO: Create a function to write README file
+
+// TODO: Create a function to initialize app
+// function init() {}
+
+// // Function call to initialize app
+// init();
