@@ -28,7 +28,7 @@ function generateMarkdown(data) {
     ${data.tests}
 
   ## License
-    This application is covered under the ${data.license} license. [License information](https://choosealicense.com/)
+    This application is covered under the ${data.license} license.
 
   ## Contributing
     ${data.contributing}
