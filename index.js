@@ -67,7 +67,7 @@ const promptUser = () => {
             type: 'list',
             name: 'license',
             message: 'Please choose a license for your Project',
-            choices: ['Apache', 'GNU', 'MIT', 'BSD', 'Boost Software', 'Creative Commons Zero', 'Eclipse']
+            choices: ['apache', 'gnu', 'mit', 'bsd', 'boost software', 'ccz', 'eclipse']
         },
         {
             type: 'input',
