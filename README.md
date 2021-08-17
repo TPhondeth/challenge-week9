@@ -1,8 +1,7 @@
 
   # README Generator
 
-  [!badge](https://img.shields.io/badge/license-mit-brightgreen)
-
+  [![license](https://img.shields.io/badge/license-mit-brightgreen)
 
   ## Description
     App that can quickly create README.md file for new projects
@@ -17,20 +16,20 @@
   - [Questions](#questions)
 
   ## Installation
-    npm init npm install inquirer
+    npm init npm install inquirer\n
 
   ## Usage 
     
 
   ## Tests
-    On command line type: node index.js
+    Type on command line: node index.js
 
   ## License
-    This application is covered under the mit license. (https://choosealicense.com/licenses/mit/)
+    This application is covered under the mit license. <https://choosealicense.com/licenses/mit/>
 
   ## Contributing
     Tony Phondeth
 
   ## Questions
-    Github: [TPhondeth](https://github.com/TPhondeth)
+    Github: TPhondeth <https://github.com/TPhondeth>
     Have additional questions? Please email: phondeth@gmail.com
