@@ -5,7 +5,7 @@
   [![license](https://img.shields.io/badge/license-MIT-brightgreen)](https://shields.io)
 
   ## Description
-    A command line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
+    A command line application that creates dynamic README.md files based on user's input using the Inquirer package.
 
   ## Table of Contents
   - [Description](#description)
