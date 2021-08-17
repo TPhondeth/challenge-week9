@@ -20,7 +20,9 @@
 https://user-images.githubusercontent.com/77017355/129778552-682eaa48-3d02-4a7c-90f0-9b9f0907837c.mp4
 
 
-   
+  ## Link to Demo
+  https://drive.google.com/file/d/1sq16tbM849oXbceBZEM6earV7qx2xss4/view?usp=sharing
+  
   ## Installation
     npm init
     npm install inquirer
