@@ -27,13 +27,13 @@ function generateMarkdown(data) {
     ${data.tests}
 
   ## License
-    This application is covered under the ${data.license} license. <https://choosealicense.com/licenses/${data.license}/>
+    This application is covered under the ${data.license} license. [License information](https://choosealicense.com/licenses/${data.license}/)
 
   ## Contributing
     ${data.contributing}
 
   ## Questions
-    Github: ${data.github} <https://github.com/${data.github}>
+    Github: [${data.github}](https://github.com/${data.github})
     Have additional questions? Please email: ${data.email}\n`;
 }
 
