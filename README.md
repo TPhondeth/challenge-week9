@@ -2,10 +2,10 @@
   # Professional README Generator
 
   ## Licensing:
-  [![license](https://img.shields.io/badge/license-mit-brightgreen)](https://shields.io)
+  [![license](https://img.shields.io/badge/license-MIT-brightgreen)](https://shields.io)
 
   ## Description
-    A command line application that dynamically creates README.md file based on user's input using the Inquirer package.
+    A command line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
 
   ## Table of Contents
   - [Description](#description)
@@ -26,7 +26,7 @@
     N/A
 
   ## License
-    This application is covered under the mit license. [License information](https://choosealicense.com/)
+    This application is covered under the MIT license.
 
   ## Contributing
     Tony Phondeth

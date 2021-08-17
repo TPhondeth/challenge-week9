@@ -1,7 +1,6 @@
 // External packages needed for application
 const fs = require('fs');
 const inquirer = require('inquirer');
-const { title } = require('process');
 
 // Internal module
 const generateMarkdown = require('./utils/generateMarkdown.js');
