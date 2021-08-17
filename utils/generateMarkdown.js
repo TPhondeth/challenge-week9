@@ -3,7 +3,8 @@ function generateMarkdown(data) {
   return `
   # ${data.title}
 
-  [![license](https://img.shields.io/badge/license-${data.license}-brightgreen)
+  ## Licensing:
+  [![license](https://img.shields.io/badge/license-${data.license}-brightgreen)](https://shields.io)
 
   ## Description
     ${data.description}
@@ -27,14 +28,14 @@ function generateMarkdown(data) {
     ${data.tests}
 
   ## License
-    This application is covered under the ${data.license} license. [License information](https://choosealicense.com/licenses/${data.license}/)
+    This application is covered under the ${data.license} license. [License information](https://choosealicense.com/)
 
   ## Contributing
     ${data.contributing}
 
   ## Questions
-    Github: [${data.github}](https://github.com/${data.github})
-    Have additional questions? Please email: ${data.email}\n`;
+  - Github: [${data.github}](https://github.com/${data.github})
+  - Email: ${data.email}\n`;
 }
 
 module.exports = generateMarkdown;
