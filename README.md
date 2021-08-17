@@ -4,7 +4,7 @@
   [![license](https://img.shields.io/badge/license-mit-brightgreen)
 
   ## Description
-    App that can quickly create README.md file for new projects
+    A command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
 
   ## Table of Contents
   - [Description](#description)
@@ -22,7 +22,7 @@
     
 
   ## Tests
-    Type on command line: node index.js
+    On command line type: node index.js
 
   ## License
     This application is covered under the mit license. <https://choosealicense.com/licenses/mit/>
