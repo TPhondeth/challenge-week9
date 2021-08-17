@@ -3,7 +3,7 @@ function generateMarkdown(data) {
   return `
   # ${data.title}
 
-  (https://img.shields.io/badge/license-${data.license}-brightgreen)\n
+  [![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)\n
 
   ## Description
     ${data.description}
@@ -33,7 +33,7 @@ function generateMarkdown(data) {
     ${data.contributing}
 
   ## Questions
-    Github: ${data.github} (https://github.com/${data.github})
+    Github: [${data.github}](https://github.com/${data.github})
     Have additional questions? Please email: ${data.email}\n`;
 }
 
