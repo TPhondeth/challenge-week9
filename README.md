@@ -1,11 +1,11 @@
 
   # README Generator
 
-  [![badge](https://img.shields.io/badge/license-mit-brightgreen)
+  [!badge](https://img.shields.io/badge/license-mit-brightgreen)
 
 
   ## Description
-    An app that quickly creates new README.md file for projects
+    App that can quickly create README.md file for new projects
 
   ## Table of Contents
   - [Description](#description)
@@ -23,7 +23,7 @@
     
 
   ## Tests
-    Type on command line: node index.js
+    On command line type: node index.js
 
   ## License
     This application is covered under the mit license. (https://choosealicense.com/licenses/mit/)
